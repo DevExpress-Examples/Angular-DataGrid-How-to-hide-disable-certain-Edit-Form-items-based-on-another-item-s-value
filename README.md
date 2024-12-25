@@ -45,7 +45,7 @@ This example demonstrates how to implement the following scenarios in DataGrid:
 
 ## More Examples
 
-- [DataGrid - How to implement a custom editing form using dxForm and dxPopup](https://github.com/DevExpress-Examples/DataGrid-How-to-implement-a-custom-editing-form-using-dxForm-and-dxPopup)
+- [DataGrid - How to implement a custom editing form using dxForm and dxPopup](https://github.com/DevExpress-Examples/devextreme-datagrid-custom-editing-form)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 

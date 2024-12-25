@@ -26,11 +26,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://create-react-app.dev/docs/deployment/) for more information.
 
 ## Further help
 
-You can learn more about React in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more about React in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
 
 To get more help on DevExtreme submit an issue on [GitHub](https://github.com/DevExpress/devextreme/issues) or [Support Center](https://www.devexpress.com/Support/Center/Question/Create)
 

@@ -1,3 +1,5 @@
+* text=auto eol=lf
+
 VB/* linguist-vendored
 scripts linguist-vendored
 *.css linguist-detectable=false
